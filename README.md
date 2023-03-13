@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Hervé [@HerveDelaunay](https://github.com/HerveDelaunay) - React developer
 
-<!--
-**HerveDelaunay/HerveDelaunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am mainly experience on Javascript, more particularely React.js and its ecosystem like Redux and also GraphQL. I am currently looking to land my first developer position.
 
-Here are some ideas to get you started:
+- 🖥️ I’m currently working on React & context or Redux for state management
+- 🔒 I'm am focusing on Typescript
+- 🧪 I’m currently learning Jest for testing my apps
+- 🥅 2023 Goals: Contribute to Open Source projets & create my blog with GatsbyJS
+- 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/herv%C3%A9-delaunay#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/herv%C3%A9-delaunay#gh-dark-mode-only)
+
+### 🧰 Languages and Tools:
+
+<img align="left" alt="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
+<br />
