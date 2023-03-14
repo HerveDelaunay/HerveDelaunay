@@ -35,6 +35,4 @@ I am mainly experienced in Javascript, more particularly in React.js and its eco
 ### 📊 Stats
 
 <img align="center" alt="Herve's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HerveDelaunay&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,issues&hide_border=true" />
-<br/>
-<br/>
 <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveDelaunay&layout=compact&theme=tokyonight&hide_border=true" />
