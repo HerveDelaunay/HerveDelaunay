@@ -7,6 +7,7 @@ I am mainly experienced in Javascript, more particularly in React.js and its eco
 - 🧪 I’m currently learning Jest for testing my apps
 - 🥅 2023 Goals: Contribute to Open Source projets & create my blog with GatsbyJS
 - 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
+- 🔥 Check out my website : [hdelaunay.fr](https://www.hdelaunay.fr/)
 
 ### Connect with me:
 
