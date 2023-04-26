@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hervé - React & Angular developer
 
-I am mainly experienced in Javascript, more particularly in React.js and its ecosystem like Redux and also GraphQL. I am currently working at @Logpickr as a frontend developer intern
+I am mainly experienced in Javascript, more particularly in React.js and its ecosystem like Redux and also GraphQL. I am currently working at [@Logpickr](https://github.com/logpickr) as a frontend developer intern
 
 - 🖥️ I’m currently working on React & context or Redux for state management
 - 🔒 I'm am focusing on Typescript
