@@ -1,11 +1,10 @@
-# Hi there 👋, I'm Hervé - React & Angular developer
+# Hi there 👋, I'm Hervé - Junior DevOps engineer
 
-I am mainly experienced in Javascript, more particularly in React.js and its ecosystem like Redux and also GraphQL. I am currently working at [@Logpickr](https://github.com/logpickr) as a frontend developer intern
+I know my way around Linux and I love working with containers, I also like to create things with Typescript. I am currently working at [@Septeo](https://github.com/Septeo-Solutions-HR) as a junior DevOps engineer.
 
-- 🖥️ I’m currently working on React & context or Redux for state management
-- 🔒 I'm am focusing on Typescript
-- 🧪 I’m currently learning Angular
-- 🥅 2023 Goals: Contribute to Open Source projets & create my blog with GatsbyJS
+- 🔒 I'm am focusing on learning Kubernetes
+- 🧪 I would like to learn Go, because all the cloud environment is written in it
+- 🥅 2024 Goals: create my blog, my homelab & maybe pass the CKA exam
 - 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
 - 🔥 Check out my website : [hdelaunay.fr](https://www.hdelaunay.fr/)
 
@@ -16,19 +15,15 @@ I am mainly experienced in Javascript, more particularly in React.js and its eco
 
 ### 🧰 Languages and Tools:
 
+<img align="left" alt="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Ansible" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 
 <br/>
 
