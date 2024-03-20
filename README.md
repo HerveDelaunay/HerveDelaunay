@@ -3,7 +3,7 @@
 I know my way around Linux and I love working with containers, I also like to create things with Typescript. I am currently working at [@Septeo](https://github.com/Septeo-Solutions-HR) as a junior DevOps engineer.
 
 - 🔒 I'm am focusing on learning Kubernetes
-- 🧪 I would like to learn Go, because all the cloud environment is written in it
+- 🧪 I would like to learn Go, because all the cloud environment tools are written in it
 - 🥅 2024 Goals: create my blog, my homelab & maybe pass the CKA exam
 - 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
 - 🔥 Check out my website : [hdelaunay.fr](https://www.hdelaunay.fr/)
