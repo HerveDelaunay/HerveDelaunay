@@ -6,7 +6,7 @@ I know my way around Linux and I love working with containers, I also like to cr
 - 🧪 I would like to learn Go, because all the cloud environment tools are written in it
 - 🥅 2024 Goals: create my blog, my homelab & maybe pass the CKA exam
 - 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
-- 🔥 Check out my website : [hdelaunay.fr](https://www.hdelaunay.fr/)
+- 🔥 Before going into DevOps I was creating things with Typescript : [portfolio.hdelaunay.fr](https://www.portfolio.hdelaunay.fr/)
 
 ### Connect with me:
 
