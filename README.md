@@ -24,12 +24,3 @@ I know my way around Linux and I love working with containers, I also like to cr
 <img align="left" alt="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
-<br/>
-
-#
-
-### 📊 Stats
-
-<img align="center" alt="Herve's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HerveDelaunay&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,issues&hide_border=true" />
-<img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveDelaunay&layout=compact&theme=tokyonight&hide_border=true" />
