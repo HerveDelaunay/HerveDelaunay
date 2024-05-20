@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Hervé - Junior DevOps engineer
+# Hervé Delaunay
 
-I know my way around Linux and I love working with containers, I also like to create things with Typescript. I am currently working at [@Septeo](https://github.com/Septeo-Solutions-HR) as a junior DevOps engineer.
+I know my way around Linux and I love working with containers, I also like to create things with Typescript. I am currently working at [@Septeo](https://github.com/Septeo-Solutions-HR) as a DevOps engineer.
 
 - 🔒 I'm am focusing on learning Kubernetes
 - 🧪 I would like to learn Go, because all the cloud environment tools are written in it
-- 🥅 2024 Goals: ~~create my blog~~, my homelab & maybe pass the CKA exam
+- 🥅 2024 Goals: ~~create my blog~~, my homelab & pass the CKA exam
 - 📫 Reach me by mail: [hdelaunay.dev@gmail.com](mailto:hdelaunay.dev@gmail.co)
 - 🔥 Before going into DevOps I was creating things with Typescript : [portfolio.hdelaunay.fr](https://www.portfolio.hdelaunay.fr/)
 
